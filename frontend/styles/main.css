@@ -1,0 +1,156 @@
+/* Nav Section */
+.navbar-item {
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+
+.nav-item .nav-link.active {
+    font-weight: 400;
+    color: #FEBC38 !important;
+}
+
+.nav-link {
+    color: #FFFFFF !important;
+}
+
+.nav-link:hover {
+    color: #FEBC38 !important;
+}
+/* Tutup Nav Section */
+
+/* Profile Section */
+.profile-img {
+    position: absolute;
+    width: 1580px;
+    height: 937px;
+    margin-left: -140px;
+    margin-top: -114px;
+}
+
+.profile-text h2 {
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 25px;
+    color: #FFFFFF;
+}
+
+.profile-text p {
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+/* Tutup Profile Section */
+
+/* Pembukaan */
+.opening h1 {
+  font-family: 'Poppins';
+  font-weight: 800;
+  font-size: 50px;
+}
+
+.opening-img {
+  position: absolute;
+  width: 358px;
+  height: 354px;
+  left: calc(50% - 358px/2);
+  top: 929px;
+}
+
+.opening p {
+  font-style: 'Poppins';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  text-align: center;
+} 
+/* Tutup Pembukaan */
+
+/* Categories Jurusan */
+.categories-img {
+  height: 242px;
+  width: 339px;
+  left: 50px;
+  top: 1648px;
+  border-radius: 10px;
+
+}
+
+.categories-text {
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 25px;
+  text-align: center;
+  color: #000000;
+}
+/* Tutup Categories Jurusan */
+
+/* Iklan */
+.iklan-img {
+  height: 488px;
+  width: 1441px;
+  left: 0px;
+  top: -2px;
+  border-radius: 0px;
+}
+
+.iklan-text h3 {
+  font-family: 'Poppins';
+  font-weight: 800;
+  font-size: 50px;
+  line-height: 61px;
+  text-align: center;
+
+  color: #FFFFFF;
+}
+
+.iklan-text h5 {
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 35px;
+  line-height: 42px;
+  text-align: center;
+
+  color: rgba(255, 255, 255, 0.5);
+
+
+}
+/* Tutup Iklan */
+
+
+
+
+
+/* Footer */
+.footer h6 {
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 20px;
+    color: black;
+}
+
+.footer p {
+    font-family: 'Poppins';
+    font-size: 20px;
+    font-weight: 500;
+
+    color: #000000;
+}
+
+.footer-small {
+    background-color: #75B8B4;
+    text-align: center 
+}
+
+.footer-small p {
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 20px;
+    margin-top: 2893px;
+
+    color: #000000;
+}
+/* Tutup Footer */
